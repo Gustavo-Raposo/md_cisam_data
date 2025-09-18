@@ -204,7 +204,7 @@ def criar_nuvem_palavras(arquivo_planilha, nome_coluna, titulo, stopwords_extra=
         return None
 
 
-# Exemplo de uso
+# main
 if __name__ == "__main__":
     arquivo_prontuario = "coluna_dados_paciente_limpo.csv" 
     coluna_prontuario = "Table 1"
